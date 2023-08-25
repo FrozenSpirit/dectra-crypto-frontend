@@ -1,4 +1,4 @@
-#Dectra
+Dectra
 Single Page web application which is mobile responsive.
 
 #Preview :
