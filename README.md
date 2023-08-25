@@ -3,7 +3,7 @@ Single Page web application which is mobile responsive.
 
 #Preview :
 
-#Full Screen View
+Desktop View
 
 <img width="1440" alt="1" src="https://github.com/FrozenSpirit/dectra-crypto-frontend/assets/84676444/a16f8c7e-c5c8-4ea4-9615-36f798ca35a3">
 <img width="1440" alt="2" src="https://github.com/FrozenSpirit/dectra-crypto-frontend/assets/84676444/ff553c28-004c-4e7b-8b75-e4fa403f5d03">
